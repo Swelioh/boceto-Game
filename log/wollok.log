@@ -21,3 +21,6 @@
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed 2025-o-game-fe-y-cafe.juego.HollowKnightGame on c:\\Users\\miles\\OneDrive\\Escritorio\\Paradigmas\\Proyectos WOLLOK\\boceto-modificar\\boceto-Game","timeElapsed":330803,"timestamp":"2025-10-23T19:22:02.205Z"}
 {"level":"info","message":"⌛ Building environment","timeElapsed":131,"timestamp":"2025-10-23T19:42:18.591Z"}
 {"level":"info","message":"⌛ Validating controlacion.wlk","timeElapsed":105,"timestamp":"2025-10-23T19:42:18.774Z"}
+{"level":"info","message":"⌛ Validating enemigos.wlk","timeElapsed":103,"timestamp":"2025-10-23T19:42:21.440Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":164,"timestamp":"2025-10-23T19:43:33.087Z"}
+{"level":"info","message":"⌛ Validating controlacion.wlk","timeElapsed":106,"timestamp":"2025-10-23T19:43:33.194Z"}
