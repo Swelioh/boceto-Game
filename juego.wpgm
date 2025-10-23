@@ -1,0 +1,8 @@
+import wollok.game.*
+import menu.*
+program HollowKnightGame {
+    // CONFIGURACIÓN INICIAL DEL JUEGO
+    game.title("Hollow Knight")
+    menu.iniciarJuego()
+    game.start()
+}

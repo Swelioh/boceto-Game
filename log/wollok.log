@@ -19,3 +19,5 @@
 {"level":"info","message":"⌛ Validating 2025-o-game-fe-y-cafe/protagonista.wlk","timeElapsed":147,"timestamp":"2025-10-23T19:21:05.546Z"}
 {"level":"info","message":"⌛ Validating 2025-o-game-fe-y-cafe/menu.wlk","timeElapsed":106,"timestamp":"2025-10-23T19:21:44.361Z"}
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed 2025-o-game-fe-y-cafe.juego.HollowKnightGame on c:\\Users\\miles\\OneDrive\\Escritorio\\Paradigmas\\Proyectos WOLLOK\\boceto-modificar\\boceto-Game","timeElapsed":330803,"timestamp":"2025-10-23T19:22:02.205Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":131,"timestamp":"2025-10-23T19:42:18.591Z"}
+{"level":"info","message":"⌛ Validating controlacion.wlk","timeElapsed":105,"timestamp":"2025-10-23T19:42:18.774Z"}
