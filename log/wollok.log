@@ -1,0 +1,21 @@
+{"level":"info","message":"⌛ Building environment","timeElapsed":240,"timestamp":"2025-10-23T19:16:22.679Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":146,"timestamp":"2025-10-23T19:16:22.829Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":110,"timestamp":"2025-10-23T19:16:22.943Z"}
+{"level":"info","message":"⌛ Validating 2025-o-game-fe-y-cafe/enemigos.wlk","timeElapsed":132,"timestamp":"2025-10-23T19:16:23.077Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":108,"timestamp":"2025-10-23T19:16:23.187Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":137,"timestamp":"2025-10-23T19:16:23.334Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":106,"timestamp":"2025-10-23T19:16:23.440Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":108,"timestamp":"2025-10-23T19:16:23.549Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":109,"timestamp":"2025-10-23T19:16:23.660Z"}
+{"level":"info","message":"⌛ Validating 2025-o-game-fe-y-cafe/testExample.wtest","timeElapsed":114,"timestamp":"2025-10-23T19:16:23.776Z"}
+{"level":"info","message":"⌛ Validating 2025-o-game-fe-y-cafe/enemigos.wlk","timeElapsed":102,"timestamp":"2025-10-23T19:16:23.951Z"}
+{"level":"info","message":"⌛ Validating 2025-o-game-fe-y-cafe/juego.wpgm","timeElapsed":107,"timestamp":"2025-10-23T19:16:24.413Z"}
+{"level":"info","message":"⌛ Validating 2025-o-game-fe-y-cafe/controlacion.wlk","timeElapsed":140,"timestamp":"2025-10-23T19:16:24.555Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34m2025-o-game-fe-y-cafe.juego.HollowKnightGame\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\miles\\OneDrive\\Escritorio\\Paradigmas\\Proyectos WOLLOK\\boceto-modificar\\boceto-Game\u001b[39m\u001b[23m","ok":true,"timeElapsed":426,"timestamp":"2025-10-23T19:16:31.829Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":126,"timestamp":"2025-10-23T19:20:37.935Z"}
+{"level":"info","message":"⌛ Validating 2025-o-game-fe-y-cafe/enemigos.wlk","timeElapsed":192,"timestamp":"2025-10-23T19:20:38.134Z"}
+{"level":"info","message":"⌛ Validating 2025-o-game-fe-y-cafe/enemigos.wlk","timeElapsed":120,"timestamp":"2025-10-23T19:20:38.414Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":106,"timestamp":"2025-10-23T19:21:05.364Z"}
+{"level":"info","message":"⌛ Validating 2025-o-game-fe-y-cafe/protagonista.wlk","timeElapsed":147,"timestamp":"2025-10-23T19:21:05.546Z"}
+{"level":"info","message":"⌛ Validating 2025-o-game-fe-y-cafe/menu.wlk","timeElapsed":106,"timestamp":"2025-10-23T19:21:44.361Z"}
+{"exitCode":"SIGHUP","level":"info","message":"👾 Game executed 2025-o-game-fe-y-cafe.juego.HollowKnightGame on c:\\Users\\miles\\OneDrive\\Escritorio\\Paradigmas\\Proyectos WOLLOK\\boceto-modificar\\boceto-Game","timeElapsed":330803,"timestamp":"2025-10-23T19:22:02.205Z"}
